@@ -1,3 +1,7 @@
 a
 b
+<<<<<<< HEAD
 d
+=======
+c
+>>>>>>> development
